@@ -1,0 +1,618 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RaspberryMatic",
+          "description": "Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T13:55:14Z",
+            "owner": "OpenCCU",
+            "repo": "OpenCCU",
+            "stars": 1820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piVCCU",
+          "description": "Install the original Homematic CCU firmware inside a virtualized container (lxc) on Raspbian or Armbian.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-16T09:58:14Z",
+            "owner": "alexreinert",
+            "repo": "piVCCU",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "debmatic",
+          "description": "Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-08T08:25:38Z",
+            "owner": "alexreinert",
+            "repo": "debmatic",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-ccu",
+          "description": "Homematic CCU firmware running as Docker container on arm and (emulated) x86.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-02-12T18:46:26Z",
+            "owner": "angelnu",
+            "repo": "docker-ccu",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "CCU Alternatives"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RedMatic",
+          "description": "Node-RED als Addon für die Homematic CCU3 und RaspberryMatic. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-18T14:17:22Z",
+            "owner": "rdmtc",
+            "repo": "RedMatic",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HAP-HomeMatic",
+          "description": "RaspberryMatic / CCU3 addon to access your HomeMatic devices from HomeKit. Its much like https://github.com/thkl/homebridge-homematic but without homebridge.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-05-29T18:28:51Z",
+            "owner": "thkl",
+            "repo": "hap-homematic",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XML-API",
+          "description": "Vereinfachter CCU Zugriff via HTTP/XML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2024-03-14T23:43:50Z",
+            "owner": "homematic-community",
+            "repo": "XML-API",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hm_pdetect",
+          "description": "Anwesenheitserkennung über die FRITZ!-Box",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2023-07-13T10:15:18Z",
+            "owner": "homematic-community",
+            "repo": "hm_pdetect",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homematic-addon-hue",
+          "description": "HomeMatic Addon für Philips Hue.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2021-11-15T12:50:04Z",
+            "owner": "j-a-n",
+            "repo": "homematic-addon-hue",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Email",
+          "description": "HomeMatic CCU Addon für den Email Versand.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-01-05T19:41:33Z",
+            "owner": "homematic-community",
+            "repo": "hm_email",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rmupdate",
+          "description": "RaspberryMatic Addon das RaspberryMatic selbst aktualisieren kann, vereinfacht die WLAN Konfiguration mit GUI und kann andere Addons ohne Zwangsreboot installieren und aktualisieren",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2022-05-17T05:39:33Z",
+            "owner": "j-a-n",
+            "repo": "raspberrymatic-addon-rmupdate",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mosquitto",
+          "description": "Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-06-18T22:07:08Z",
+            "owner": "homematic-community",
+            "repo": "ccu-addon-mosquitto",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hm-tools",
+          "description": "Sammlung von Tools für RaspberryMatic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-07-30T09:55:33Z",
+            "owner": "fhetty",
+            "repo": "hm-tools",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "homematic_check_mk",
+          "description": "Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2022-01-12T04:58:49Z",
+            "owner": "alexreinert",
+            "repo": "homematic_check_mk",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hm-print",
+          "description": "CCU Programme drucken.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-13T14:01:11Z",
+            "owner": "homematic-community",
+            "repo": "hm-print",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redis",
+          "description": "Redis packaged as Addon for the Homematic CCU3 and RaspberryMatic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-07-29T13:52:19Z",
+            "owner": "hobbyquaker",
+            "repo": "ccu-addon-redis",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Patcher",
+          "description": "CCU3 Addon zur komfortablen Anwendung von Patches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-01T16:16:20Z",
+            "owner": "hobbyquaker",
+            "repo": "Patcher",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jq",
+          "description": "jq packaged as Addon for the Homematic CCU3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-09-26T17:55:48Z",
+            "owner": "hobbyquaker",
+            "repo": "ccu-addon-jq",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "CCU Addons"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "homebridge-homematic",
+          "description": "Homebridge Plugin zur Einbindung von Homematic Geräten in HomeKit.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-09-27T06:58:09Z",
+            "owner": "thkl",
+            "repo": "homebridge-homematic",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CCU-Jack",
+          "description": "CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T19:20:46Z",
+            "owner": "mdzio",
+            "repo": "ccu-jack",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "homebridge-homematicip",
+          "description": "Homebridge Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:12:54Z",
+            "owner": "marcsowen",
+            "repo": "homebridge-homematicip",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-red-contrib-ccu",
+          "description": "Node-RED Nodes for the Homematic CCU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-18T08:23:48Z",
+            "owner": "rdmtc",
+            "repo": "node-red-contrib-ccu",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hvl - Homematic Virtual Interface",
+          "description": "Bindet Fremdgeräte (z.B. Hue, Harmony, Netatmo, Sonos) über Plugins ein, auch als Addon verfügbar.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-06-17T20:31:19Z",
+            "owner": "thkl",
+            "repo": "Homematic-Virtual-Interface",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Interfacing Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "homematic-manager",
+          "description": "Manage homematic interface processes (rfd/hs485d/homegear).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-23T23:00:02Z",
+            "owner": "hobbyquaker",
+            "repo": "homematic-manager",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HomeHub",
+          "description": "PHP/XML-API basiertes Webfrontend. Forum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-26T06:26:48Z",
+            "owner": "homematic-community",
+            "repo": "homehub",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "check_homematic",
+          "description": "Nagios/Icinga Plugin for checking Homematic CCU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-04T14:09:13Z",
+            "owner": "hobbyquaker",
+            "repo": "check_homematic",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "language-homematic",
+          "description": "Adds syntax highlighting and snippets to HomeMatic Script files in Atom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-06-17T10:43:26Z",
+            "owner": "Ayngush",
+            "repo": "language-homematic",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hm-simulator",
+          "description": "Simulates (partly) a Homematic CCU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-02T20:28:30Z",
+            "owner": "hobbyquaker",
+            "repo": "hm-simulator",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "occu-test",
+          "description": "Automated System Tests of ReGaHss - the HomeMatic (O)CCU \"Logic Layer\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-13T08:32:53Z",
+            "owner": "OpenCCU",
+            "repo": "ReGaHss-Test",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Misc Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyhomematic",
+          "description": "Python 3 Interface to interact with Homematic devices.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-02-04T17:04:59Z",
+            "owner": "danielperna84",
+            "repo": "pyhomematic",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pmatic",
+          "description": "Python API for Homematic. Easy to use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-26T08:12:40Z",
+            "owner": "LarsMichelsen",
+            "repo": "pmatic",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "binrpc",
+          "description": "Xmlrpc_bin protocol client and server Node.js module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-12T15:20:37Z",
+            "owner": "hobbyquaker",
+            "repo": "binrpc",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "homematic-rega",
+          "description": "Node.js Homematic CCU ReGaHSS Remote Script Interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-03T18:20:13Z",
+            "owner": "hobbyquaker",
+            "repo": "homematic-rega",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hm-discover",
+          "description": "Node.js module to discover Homematic CCUs and interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-15T23:04:11Z",
+            "owner": "hobbyquaker",
+            "repo": "hm-discover",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "homematic-xmlrpc",
+          "description": "Xmlrpc client and server Node.js module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-09T21:35:55Z",
+            "owner": "hobbyquaker",
+            "repo": "homematic-xmlrpc",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "homematicip-rest-api",
+          "description": "Python wrapper for the homematicIP REST API (Cloud / Access Point Based).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-12T20:43:56Z",
+            "owner": "coreGreenberet",
+            "repo": "homematicip-rest-api",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "homematic-gqls",
+          "description": "A GraphQL service to query Homematic IP components based on homematicip-rest-api.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-06T15:26:34Z",
+            "owner": "martin-riedl",
+            "repo": "homematic-gqls",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Software Modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AskSinAnalyzer",
+          "description": "Funktelegramm-Dekodierer für den Einsatz in HomeMatic Umgebungen, hilfreich zur Fehlersuche, z.B. wenn der DutyCycle zu hoch ist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-09-10T20:50:52Z",
+            "owner": "jp112sdl",
+            "repo": "AskSinAnalyzer",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AskSinAnalyzerXS",
+          "description": "AskSinAnalyzer als Desktop App, verzichtet auf den Einsatz eines ESP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-04T05:55:59Z",
+            "owner": "psi-4ward",
+            "repo": "AskSinAnalyzerXS",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eagle-homematic",
+          "description": "Homematic Modul Eagle Bibliothek.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-01T18:17:55Z",
+            "owner": "dersimn",
+            "repo": "eagle-homematic",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "Public Domain CC0",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:18:15.146Z",
+    "original_repository": "homematic-community/awesome-homematic",
+    "original_repository_sha": "b76537fb3f6ddd6181292a034f6a1aa0e19a93af",
+    "enhanced_repository": "enhansome/enhansome-homematic",
+    "enhanced_repository_description": null,
+    "title": "Awesome Homematic with stars"
+  }
+}
