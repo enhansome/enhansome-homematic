@@ -53,7 +53,7 @@
 
 ## CCU Alternatives
 
-* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) ⭐ 1,822 | 🐛 184 | 🌐 JavaScript | 📅 2026-08-16 - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
+* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) ⭐ 1,823 | 🐛 184 | 🌐 JavaScript | 📅 2026-08-16 - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
 * [piVCCU](https://github.com/alexreinert/piVCCU) ⭐ 315 | 🐛 11 | 🌐 C | 📅 2026-04-16 - Install the original Homematic CCU firmware inside a virtualized container (lxc) on Raspbian or Armbian.
 * [debmatic](https://github.com/alexreinert/debmatic) ⭐ 201 | 🐛 5 | 🌐 Shell | 📅 2025-12-08 - Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)
 * [docker-ccu](https://github.com/angelnu/docker-ccu) ⚠️ Archived - Homematic CCU firmware running as [Docker](https://www.docker.com) container on arm and (emulated) x86.
@@ -72,14 +72,14 @@
 * [RedMatic](https://github.com/rdmtc/RedMatic) ⭐ 532 | 🐛 178 | 🌐 HTML | 📅 2026-07-18 - [Node-RED](https://nodered.org/) als Addon für die Homematic CCU3 und RaspberryMatic. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.
 * [HAP-HomeMatic](https://github.com/thkl/hap-homematic) ⚠️ Archived - RaspberryMatic / CCU3 addon to access your HomeMatic devices from HomeKit. Its much like <https://github.com/thkl/homebridge-homematic> ⚠️ Archived but without homebridge.
 * [XML-API](https://github.com/hobbyquaker/xml-api) ⭐ 129 | 🐛 16 | 🌐 Tcl | 📅 2024-03-14 - Vereinfachter CCU Zugriff via HTTP/XML.
-* [hm\_pdetect](https://github.com/jens-maus/hm_pdetect) ⭐ 72 | 🐛 49 | 🌐 Tcl | 📅 2023-07-13 - Anwesenheitserkennung über die FRITZ!-Box
+* [hm\_pdetect](https://github.com/jens-maus/hm_pdetect) ⭐ 73 | 🐛 49 | 🌐 Tcl | 📅 2023-07-13 - Anwesenheitserkennung über die FRITZ!-Box
 * [Homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) ⚠️ Archived - HomeMatic Addon für Philips Hue.
-* [Email](https://github.com/jens-maus/hm_email) ⭐ 46 | 🐛 15 | 🌐 HTML | 📅 2023-01-05 - HomeMatic CCU Addon für den Email Versand.
+* [Email](https://github.com/jens-maus/hm_email) ⭐ 47 | 🐛 15 | 🌐 HTML | 📅 2023-01-05 - HomeMatic CCU Addon für den Email Versand.
 * [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) ⚠️ Archived - RaspberryMatic Addon das RaspberryMatic selbst aktualisieren kann, vereinfacht die WLAN Konfiguration mit GUI und kann andere Addons ohne Zwangsreboot installieren und aktualisieren
 * [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) ⭐ 33 | 🐛 13 | 🌐 Shell | 📅 2022-06-18 - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic
-* [hm-tools](https://github.com/fhetty/hm-tools) ⭐ 25 | 🐛 5 | 🌐 C | 📅 2023-07-30 - Sammlung von Tools für RaspberryMatic.
+* [hm-tools](https://github.com/fhetty/hm-tools) ⭐ 26 | 🐛 5 | 🌐 C | 📅 2023-07-30 - Sammlung von Tools für RaspberryMatic.
 * [homematic\_check\_mk](https://github.com/alexreinert/homematic_check_mk) ⭐ 22 | 🐛 8 | 🌐 Tcl | 📅 2022-01-12 - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check\_mk\_agent.
-* [hm-print](https://github.com/litti/hm-print) ⭐ 11 | 🐛 10 | 🌐 CSS | 📅 2022-12-13 - CCU Programme drucken.
+* [hm-print](https://github.com/litti/hm-print) ⭐ 12 | 🐛 10 | 🌐 CSS | 📅 2022-12-13 - CCU Programme drucken.
 * [Redis](https://github.com/hobbyquaker/ccu-addon-redis) ⭐ 2 | 🐛 1 | 🌐 Shell | 📅 2018-07-29 - Redis packaged as Addon for the Homematic CCU3 and RaspberryMatic
 * [Patcher](https://github.com/hobbyquaker/Patcher) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2020-01-01 - CCU3 Addon zur komfortablen Anwendung von Patches.
 * [jq](https://github.com/hobbyquaker/ccu-addon-jq) ⭐ 0 | 🐛 1 | 🌐 Shell | 📅 2019-09-26 - jq packaged as Addon for the Homematic CCU3.
@@ -89,9 +89,9 @@
 
 ## Interfacing Software
 
-* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,452 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-16 Plugin zur Einbindung von Homematic Geräten in HomeKit.
-* [CCU-Jack](https://github.com/mdzio/ccu-jack) ⭐ 146 | 🐛 42 | 🌐 Go | 📅 2026-08-16 - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
-* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 86 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-14 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,452 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-16 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
+* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,454 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-16 Plugin zur Einbindung von Homematic Geräten in HomeKit.
+* [CCU-Jack](https://github.com/mdzio/ccu-jack) ⭐ 146 | 🐛 41 | 🌐 Go | 📅 2026-08-17 - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
+* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 86 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-14 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,454 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-16 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 69 | 🐛 62 | 🌐 JavaScript | 📅 2026-07-18 - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 * [hvl - Homematic Virtual Interface](https://github.com/thkl/Homematic-Virtual-Interface) ⚠️ Archived - Bindet Fremdgeräte (z.B. Hue, Harmony, Netatmo, Sonos) über Plugins ein, auch als Addon verfügbar.
 
@@ -146,4 +146,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

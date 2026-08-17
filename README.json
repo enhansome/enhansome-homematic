@@ -14,7 +14,7 @@
             "last_commit": "2026-08-16T04:32:26Z",
             "owner": "OpenCCU",
             "repo": "OpenCCU",
-            "stars": 1822
+            "stars": 1823
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2023-07-13T10:15:18Z",
             "owner": "homematic-community",
             "repo": "hm_pdetect",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2023-01-05T19:41:33Z",
             "owner": "homematic-community",
             "repo": "hm_email",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2023-07-30T09:55:33Z",
             "owner": "fhetty",
             "repo": "hm-tools",
-            "stars": 25
+            "stars": 26
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2022-12-13T14:01:11Z",
             "owner": "homematic-community",
             "repo": "hm-print",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -289,7 +289,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T14:19:05Z",
+            "last_commit": "2026-08-17T11:29:41Z",
             "owner": "mdzio",
             "repo": "ccu-jack",
             "stars": 146
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:42:15.383Z",
+    "last_updated": "2026-08-17T14:48:17.552Z",
     "original_repository": "homematic-community/awesome-homematic",
     "original_repository_sha": "b76537fb3f6ddd6181292a034f6a1aa0e19a93af",
     "enhanced_repository": "enhansome/enhansome-homematic",
