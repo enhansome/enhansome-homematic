@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T04:32:26Z",
+            "last_commit": "2026-08-18T02:03:27Z",
             "owner": "OpenCCU",
             "repo": "OpenCCU",
             "stars": 1823
@@ -289,7 +289,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T11:29:41Z",
+            "last_commit": "2026-08-17T20:27:17Z",
             "owner": "mdzio",
             "repo": "ccu-jack",
             "stars": 146
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:48:17.552Z",
+    "last_updated": "2026-08-18T14:54:50.826Z",
     "original_repository": "homematic-community/awesome-homematic",
     "original_repository_sha": "b76537fb3f6ddd6181292a034f6a1aa0e19a93af",
     "enhanced_repository": "enhansome/enhansome-homematic",
