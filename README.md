@@ -53,7 +53,7 @@
 
 ## CCU Alternatives
 
-* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) ⭐ 1,823 | 🐛 186 | 🌐 JavaScript | 📅 2026-08-18 - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
+* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) ⭐ 1,823 | 🐛 187 | 🌐 JavaScript | 📅 2026-08-19 - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
 * [piVCCU](https://github.com/alexreinert/piVCCU) ⭐ 315 | 🐛 11 | 🌐 C | 📅 2026-04-16 - Install the original Homematic CCU firmware inside a virtualized container (lxc) on Raspbian or Armbian.
 * [debmatic](https://github.com/alexreinert/debmatic) ⭐ 201 | 🐛 5 | 🌐 Shell | 📅 2025-12-08 - Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)
 * [docker-ccu](https://github.com/angelnu/docker-ccu) ⚠️ Archived - Homematic CCU firmware running as [Docker](https://www.docker.com) container on arm and (emulated) x86.
@@ -89,16 +89,16 @@
 
 ## Interfacing Software
 
-* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,455 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-18 Plugin zur Einbindung von Homematic Geräten in HomeKit.
-* [CCU-Jack](https://github.com/mdzio/ccu-jack) ⭐ 146 | 🐛 39 | 🌐 Go | 📅 2026-08-17 - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
-* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 86 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-14 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,455 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-18 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
+* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,457 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-19 Plugin zur Einbindung von Homematic Geräten in HomeKit.
+* [CCU-Jack](https://github.com/mdzio/ccu-jack) ⭐ 146 | 🐛 39 | 🌐 Go | 📅 2026-08-18 - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
+* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 86 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-14 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,457 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-19 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 69 | 🐛 62 | 🌐 JavaScript | 📅 2026-07-18 - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 * [hvl - Homematic Virtual Interface](https://github.com/thkl/Homematic-Virtual-Interface) ⚠️ Archived - Bindet Fremdgeräte (z.B. Hue, Harmony, Netatmo, Sonos) über Plugins ein, auch als Addon verfügbar.
 
 ## Misc Software
 
 * [homematic-manager](https://github.com/hobbyquaker/homematic-manager) ⭐ 197 | 🐛 55 | 🌐 JavaScript | 📅 2024-07-23 - Manage homematic interface processes (rfd/hs485d/homegear).
-* [HomeHub](https://github.com/Gerti1972/homehub) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2026-07-26 - PHP/XML-API basiertes Webfrontend. [Forum](https://homematic-forum.de/forum/viewtopic.php?f=41\&t=50538)
+* [HomeHub](https://github.com/Gerti1972/homehub) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2026-08-19 - PHP/XML-API basiertes Webfrontend. [Forum](https://homematic-forum.de/forum/viewtopic.php?f=41\&t=50538)
 * [check\_homematic](https://github.com/hobbyquaker/check_homematic) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2018-11-04 - Nagios/Icinga Plugin for checking Homematic CCU.
 * [language-homematic](https://github.com/Ayngush/language-homematic) ⭐ 5 | 🐛 0 | 📅 2017-06-17 - Adds syntax highlighting and snippets to HomeMatic Script files in Atom.
 * [hm-simulator](https://github.com/hobbyquaker/hm-simulator) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2019-10-02 - Simulates (partly) a Homematic CCU.
@@ -146,4 +146,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

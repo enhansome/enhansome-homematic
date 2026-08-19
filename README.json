@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61721573,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T02:03:27Z",
+            "last_commit": "2026-08-19T05:35:34Z",
             "owner": "OpenCCU",
             "repo": "OpenCCU",
             "stars": 1823
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107123404,
             "language": "C",
             "last_commit": "2026-04-16T09:58:14Z",
             "owner": "alexreinert",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165224282,
             "language": "Shell",
             "last_commit": "2025-12-08T08:25:38Z",
             "owner": "alexreinert",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 68458394,
             "language": "Shell",
             "last_commit": "2021-02-12T18:46:26Z",
             "owner": "angelnu",
@@ -63,7 +67,7 @@
       "title": "CCU Alternatives"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131438939,
             "language": "HTML",
             "last_commit": "2026-07-18T14:17:22Z",
             "owner": "rdmtc",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 245855336,
             "language": "JavaScript",
             "last_commit": "2026-05-29T18:28:51Z",
             "owner": "thkl",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6154561,
             "language": "Tcl",
             "last_commit": "2024-03-14T23:43:50Z",
             "owner": "homematic-community",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31533746,
             "language": "Tcl",
             "last_commit": "2023-07-13T10:15:18Z",
             "owner": "homematic-community",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79747410,
             "language": "CSS",
             "last_commit": "2021-11-15T12:50:04Z",
             "owner": "j-a-n",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43617325,
             "language": "HTML",
             "last_commit": "2023-01-05T19:41:33Z",
             "owner": "homematic-community",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 86099296,
             "language": "CSS",
             "last_commit": "2022-05-17T05:39:33Z",
             "owner": "j-a-n",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137383187,
             "language": "Shell",
             "last_commit": "2022-06-18T22:07:08Z",
             "owner": "homematic-community",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107053667,
             "language": "C",
             "last_commit": "2023-07-30T09:55:33Z",
             "owner": "fhetty",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95291285,
             "language": "Tcl",
             "last_commit": "2022-01-12T04:58:49Z",
             "owner": "alexreinert",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45790487,
             "language": "CSS",
             "last_commit": "2022-12-13T14:01:11Z",
             "owner": "homematic-community",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142764653,
             "language": "Shell",
             "last_commit": "2018-07-29T13:52:19Z",
             "owner": "hobbyquaker",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230930784,
             "language": "JavaScript",
             "last_commit": "2020-01-01T16:16:20Z",
             "owner": "hobbyquaker",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137383810,
             "language": "Shell",
             "last_commit": "2019-09-26T17:55:48Z",
             "owner": "hobbyquaker",
@@ -265,7 +283,7 @@
       "title": "CCU Addons"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45619896,
             "language": "JavaScript",
             "last_commit": "2022-09-27T06:58:09Z",
             "owner": "thkl",
@@ -288,8 +307,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212617875,
             "language": "Go",
-            "last_commit": "2026-08-17T20:27:17Z",
+            "last_commit": "2026-08-18T20:20:54Z",
             "owner": "mdzio",
             "repo": "ccu-jack",
             "stars": 146
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90254522,
             "language": "TypeScript",
             "last_commit": "2026-08-14T22:06:23Z",
             "owner": "marcsowen",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131439304,
             "language": "JavaScript",
             "last_commit": "2026-07-18T08:23:48Z",
             "owner": "rdmtc",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 74133734,
             "language": "JavaScript",
             "last_commit": "2024-06-17T20:31:19Z",
             "owner": "thkl",
@@ -341,7 +364,7 @@
       "title": "Interfacing Software"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19676654,
             "language": "JavaScript",
             "last_commit": "2024-07-23T23:00:02Z",
             "owner": "hobbyquaker",
@@ -364,8 +388,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242479582,
             "language": "PHP",
-            "last_commit": "2026-07-26T06:26:48Z",
+            "last_commit": "2026-08-19T06:47:22Z",
             "owner": "homematic-community",
             "repo": "homehub",
             "stars": 18
@@ -378,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106186259,
             "language": "JavaScript",
             "last_commit": "2018-11-04T14:09:13Z",
             "owner": "hobbyquaker",
@@ -392,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36176929,
             "language": null,
             "last_commit": "2017-06-17T10:43:26Z",
             "owner": "Ayngush",
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89813317,
             "language": "JavaScript",
             "last_commit": "2019-10-02T20:28:30Z",
             "owner": "hobbyquaker",
@@ -420,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108766738,
             "language": "JavaScript",
             "last_commit": "2026-07-13T08:32:53Z",
             "owner": "OpenCCU",
@@ -431,7 +460,7 @@
       "title": "Misc Software"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -440,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 50591651,
             "language": "Python",
             "last_commit": "2024-02-04T17:04:59Z",
             "owner": "danielperna84",
@@ -454,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48881188,
             "language": "Python",
             "last_commit": "2022-01-26T08:12:40Z",
             "owner": "LarsMichelsen",
@@ -468,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24060986,
             "language": "JavaScript",
             "last_commit": "2019-05-12T15:20:37Z",
             "owner": "hobbyquaker",
@@ -482,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102968789,
             "language": "JavaScript",
             "last_commit": "2020-08-03T18:20:13Z",
             "owner": "hobbyquaker",
@@ -496,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100735350,
             "language": "JavaScript",
             "last_commit": "2022-08-15T23:04:11Z",
             "owner": "hobbyquaker",
@@ -510,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20196254,
             "language": "JavaScript",
             "last_commit": "2021-08-09T21:35:55Z",
             "owner": "hobbyquaker",
@@ -524,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 513286962,
             "language": null,
             "last_commit": "2022-07-12T20:43:56Z",
             "owner": "coreGreenberet",
@@ -538,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288663383,
             "language": "Python",
             "last_commit": "2025-07-06T15:26:34Z",
             "owner": "martin-riedl",
@@ -549,7 +586,7 @@
       "title": "Software Modules"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -558,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188955644,
             "language": "C",
             "last_commit": "2023-09-10T20:50:52Z",
             "owner": "jp112sdl",
@@ -572,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238471011,
             "language": "Vue",
             "last_commit": "2023-03-04T05:55:59Z",
             "owner": "psi-4ward",
@@ -586,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220642041,
             "language": null,
             "last_commit": "2020-10-01T18:17:55Z",
             "owner": "dersimn",
@@ -595,21 +635,12 @@
         }
       ],
       "title": "Misc"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "Public Domain CC0",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:54:50.826Z",
+    "last_updated": "2026-08-19T12:36:12.912Z",
     "original_repository": "homematic-community/awesome-homematic",
+    "original_repository_id": 89015898,
     "original_repository_sha": "b76537fb3f6ddd6181292a034f6a1aa0e19a93af",
     "enhanced_repository": "enhansome/enhansome-homematic",
     "enhanced_repository_description": null,
