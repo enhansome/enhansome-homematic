@@ -12,7 +12,7 @@
             "archived": false,
             "id": 61721573,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T05:35:34Z",
+            "last_commit": "2026-08-20T13:24:28Z",
             "owner": "OpenCCU",
             "repo": "OpenCCU",
             "stars": 1823
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 212617875,
             "language": "Go",
-            "last_commit": "2026-08-18T20:20:54Z",
+            "last_commit": "2026-08-19T19:42:31Z",
             "owner": "mdzio",
             "repo": "ccu-jack",
             "stars": 146
@@ -324,7 +324,7 @@
             "archived": false,
             "id": 90254522,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:06:23Z",
+            "last_commit": "2026-08-19T16:12:51Z",
             "owner": "marcsowen",
             "repo": "homebridge-homematicip",
             "stars": 86
@@ -638,7 +638,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:55:00.926Z",
+    "last_updated": "2026-08-20T14:57:46.815Z",
     "original_repository": "homematic-community/awesome-homematic",
     "original_repository_id": 89015898,
     "original_repository_sha": "b76537fb3f6ddd6181292a034f6a1aa0e19a93af",
