@@ -89,16 +89,16 @@
 
 ## Interfacing Software
 
-* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,460 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-22 Plugin zur Einbindung von Homematic Geräten in HomeKit.
-* [CCU-Jack](https://github.com/mdzio/ccu-jack) ⭐ 145 | 🐛 33 | 🌐 Go | 📅 2026-08-22 - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
-* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 86 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-21 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,460 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-22 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
+* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,461 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-23 Plugin zur Einbindung von Homematic Geräten in HomeKit.
+* [CCU-Jack](https://github.com/mdzio/ccu-jack) ⭐ 145 | 🐛 33 | 🌐 Go | 📅 2026-08-23 - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
+* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 86 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-21 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,461 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-23 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 69 | 🐛 62 | 🌐 JavaScript | 📅 2026-07-18 - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 * [hvl - Homematic Virtual Interface](https://github.com/thkl/Homematic-Virtual-Interface) ⚠️ Archived - Bindet Fremdgeräte (z.B. Hue, Harmony, Netatmo, Sonos) über Plugins ein, auch als Addon verfügbar.
 
 ## Misc Software
 
 * [homematic-manager](https://github.com/hobbyquaker/homematic-manager) ⭐ 197 | 🐛 55 | 🌐 JavaScript | 📅 2024-07-23 - Manage homematic interface processes (rfd/hs485d/homegear).
-* [HomeHub](https://github.com/Gerti1972/homehub) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2026-08-19 - PHP/XML-API basiertes Webfrontend. [Forum](https://homematic-forum.de/forum/viewtopic.php?f=41\&t=50538)
+* [HomeHub](https://github.com/Gerti1972/homehub) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2026-08-23 - PHP/XML-API basiertes Webfrontend. [Forum](https://homematic-forum.de/forum/viewtopic.php?f=41\&t=50538)
 * [check\_homematic](https://github.com/hobbyquaker/check_homematic) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2018-11-04 - Nagios/Icinga Plugin for checking Homematic CCU.
 * [language-homematic](https://github.com/Ayngush/language-homematic) ⭐ 5 | 🐛 0 | 📅 2017-06-17 - Adds syntax highlighting and snippets to HomeMatic Script files in Atom.
 * [hm-simulator](https://github.com/hobbyquaker/hm-simulator) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2019-10-02 - Simulates (partly) a Homematic CCU.
@@ -146,4 +146,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
