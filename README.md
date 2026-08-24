@@ -53,7 +53,7 @@
 
 ## CCU Alternatives
 
-* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) ⭐ 1,824 | 🐛 187 | 🌐 JavaScript | 📅 2026-08-21 - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
+* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) ⭐ 1,824 | 🐛 186 | 🌐 JavaScript | 📅 2026-08-24 - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
 * [piVCCU](https://github.com/alexreinert/piVCCU) ⭐ 315 | 🐛 10 | 🌐 C | 📅 2026-04-16 - Install the original Homematic CCU firmware inside a virtualized container (lxc) on Raspbian or Armbian.
 * [debmatic](https://github.com/alexreinert/debmatic) ⭐ 201 | 🐛 5 | 🌐 Shell | 📅 2025-12-08 - Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)
 * [docker-ccu](https://github.com/angelnu/docker-ccu) ⚠️ Archived - Homematic CCU firmware running as [Docker](https://www.docker.com) container on arm and (emulated) x86.
@@ -89,9 +89,9 @@
 
 ## Interfacing Software
 
-* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,461 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-23 Plugin zur Einbindung von Homematic Geräten in HomeKit.
-* [CCU-Jack](https://github.com/mdzio/ccu-jack) ⭐ 145 | 🐛 33 | 🌐 Go | 📅 2026-08-23 - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
-* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 86 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-21 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,461 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-23 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
+* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,463 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-23 Plugin zur Einbindung von Homematic Geräten in HomeKit.
+* [CCU-Jack](https://github.com/mdzio/ccu-jack) ⭐ 145 | 🐛 32 | 🌐 Go | 📅 2026-08-23 - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
+* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 86 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-21 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,463 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-23 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 69 | 🐛 62 | 🌐 JavaScript | 📅 2026-07-18 - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 * [hvl - Homematic Virtual Interface](https://github.com/thkl/Homematic-Virtual-Interface) ⚠️ Archived - Bindet Fremdgeräte (z.B. Hue, Harmony, Netatmo, Sonos) über Plugins ein, auch als Addon verfügbar.
 
@@ -146,4 +146,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
