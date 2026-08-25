@@ -12,7 +12,7 @@
             "archived": false,
             "id": 61721573,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T06:46:33Z",
+            "last_commit": "2026-08-24T20:14:58Z",
             "owner": "OpenCCU",
             "repo": "OpenCCU",
             "stars": 1824
@@ -638,7 +638,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:03:35.983Z",
+    "last_updated": "2026-08-25T06:29:45.465Z",
     "original_repository": "homematic-community/awesome-homematic",
     "original_repository_id": 89015898,
     "original_repository_sha": "b76537fb3f6ddd6181292a034f6a1aa0e19a93af",
