@@ -12,7 +12,7 @@
             "archived": false,
             "id": 61721573,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T05:37:18Z",
+            "last_commit": "2026-08-27T02:03:05Z",
             "owner": "OpenCCU",
             "repo": "OpenCCU",
             "stars": 1824
@@ -516,7 +516,7 @@
             "archived": false,
             "id": 102968789,
             "language": "JavaScript",
-            "last_commit": "2020-08-03T18:20:13Z",
+            "last_commit": "2026-08-27T10:57:36Z",
             "owner": "hobbyquaker",
             "repo": "homematic-rega",
             "stars": 8
@@ -546,7 +546,7 @@
             "archived": false,
             "id": 20196254,
             "language": "JavaScript",
-            "last_commit": "2021-08-09T21:35:55Z",
+            "last_commit": "2026-08-27T10:57:40Z",
             "owner": "hobbyquaker",
             "repo": "homematic-xmlrpc",
             "stars": 7
@@ -638,9 +638,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:55:06.503Z",
-    "original_repository": "homematic-community/awesome-homematic",
-    "original_repository_id": 89015898,
+    "last_updated": "2026-08-27T11:42:23.885Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 89015898,
+      "language": null,
+      "last_commit": "2023-05-11T17:24:44Z",
+      "owner": "homematic-community",
+      "repo": "awesome-homematic",
+      "stars": 211
+    },
     "original_repository_sha": "b76537fb3f6ddd6181292a034f6a1aa0e19a93af",
     "enhanced_repository": "enhansome/enhansome-homematic",
     "enhanced_repository_description": null,
