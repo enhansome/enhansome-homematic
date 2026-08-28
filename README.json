@@ -12,11 +12,12 @@
             "archived": false,
             "id": 61721573,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T02:03:05Z",
+            "last_commit": "2026-08-28T13:32:50Z",
             "owner": "OpenCCU",
             "repo": "OpenCCU",
-            "stars": 1824
-          }
+            "stars": 1825
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "alexreinert",
             "repo": "piVCCU",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "alexreinert",
             "repo": "debmatic",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "angelnu",
             "repo": "docker-ccu",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         }
       ],
       "title": "CCU Alternatives"
@@ -82,7 +86,8 @@
             "owner": "rdmtc",
             "repo": "RedMatic",
             "stars": 532
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "thkl",
             "repo": "hap-homematic",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "homematic-community",
             "repo": "XML-API",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "homematic-community",
             "repo": "hm_pdetect",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "j-a-n",
             "repo": "homematic-addon-hue",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "homematic-community",
             "repo": "hm_email",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "j-a-n",
             "repo": "raspberrymatic-addon-rmupdate",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "homematic-community",
             "repo": "ccu-addon-mosquitto",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "fhetty",
             "repo": "hm-tools",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "alexreinert",
             "repo": "homematic_check_mk",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "homematic-community",
             "repo": "hm-print",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "hobbyquaker",
             "repo": "ccu-addon-redis",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "hobbyquaker",
             "repo": "Patcher",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "hobbyquaker",
             "repo": "ccu-addon-jq",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         }
       ],
       "title": "CCU Addons"
@@ -298,7 +316,8 @@
             "owner": "thkl",
             "repo": "homebridge-homematic",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "mdzio",
             "repo": "ccu-jack",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -324,11 +344,12 @@
             "archived": false,
             "id": 90254522,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:12:49Z",
+            "last_commit": "2026-08-28T15:06:30Z",
             "owner": "marcsowen",
             "repo": "homebridge-homematicip",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "rdmtc",
             "repo": "node-red-contrib-ccu",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "thkl",
             "repo": "Homematic-Virtual-Interface",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         }
       ],
       "title": "Interfacing Software"
@@ -379,7 +402,8 @@
             "owner": "hobbyquaker",
             "repo": "homematic-manager",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "homematic-community",
             "repo": "homehub",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "hobbyquaker",
             "repo": "check_homematic",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "Ayngush",
             "repo": "language-homematic",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "hobbyquaker",
             "repo": "hm-simulator",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "OpenCCU",
             "repo": "ReGaHss-Test",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         }
       ],
       "title": "Misc Software"
@@ -475,7 +504,8 @@
             "owner": "danielperna84",
             "repo": "pyhomematic",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "LarsMichelsen",
             "repo": "pmatic",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "hobbyquaker",
             "repo": "binrpc",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -516,11 +548,12 @@
             "archived": false,
             "id": 102968789,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T10:57:36Z",
+            "last_commit": "2026-08-28T20:36:08Z",
             "owner": "hobbyquaker",
             "repo": "homematic-rega",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "hobbyquaker",
             "repo": "hm-discover",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -546,11 +580,12 @@
             "archived": false,
             "id": 20196254,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T10:57:40Z",
+            "last_commit": "2026-08-28T20:37:28Z",
             "owner": "hobbyquaker",
             "repo": "homematic-xmlrpc",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "coreGreenberet",
             "repo": "homematicip-rest-api",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -580,7 +616,8 @@
             "owner": "martin-riedl",
             "repo": "homematic-gqls",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         }
       ],
       "title": "Software Modules"
@@ -601,7 +638,8 @@
             "owner": "jp112sdl",
             "repo": "AskSinAnalyzer",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "psi-4ward",
             "repo": "AskSinAnalyzerXS",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         },
         {
           "node_type": "item",
@@ -631,14 +670,15 @@
             "owner": "dersimn",
             "repo": "eagle-homematic",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:34:13.474Z"
         }
       ],
       "title": "Misc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:48:35.281Z",
+    "last_updated": "2026-08-28T23:34:13.474Z",
     "original_repository_info": {
       "archived": false,
       "id": 89015898,
