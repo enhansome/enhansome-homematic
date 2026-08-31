@@ -15,7 +15,7 @@
             "id": 61721573,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T08:09:30Z",
+            "last_commit": "2026-08-31T20:08:17Z",
             "open_issues": 187,
             "owner": "OpenCCU",
             "repo": "OpenCCU",
@@ -568,7 +568,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:06:30Z",
-            "open_issues": 29,
+            "open_issues": 18,
             "owner": "marcsowen",
             "repo": "homebridge-homematicip",
             "stars": 86,
@@ -1102,7 +1102,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:05:03.741Z",
+    "last_updated": "2026-08-31T20:09:43.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Homematic related links :sparkles:",
