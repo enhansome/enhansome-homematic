@@ -53,7 +53,7 @@
 
 ## CCU Alternatives
 
-* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) ⭐ 1,825 | 🐛 187 | 🌐 JavaScript | 📅 2026-09-01 - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
+* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) ⭐ 1,826 | 🐛 189 | 🌐 JavaScript | 📅 2026-09-02 - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
 * [piVCCU](https://github.com/alexreinert/piVCCU) ⭐ 315 | 🐛 10 | 🌐 C | 📅 2026-04-16 - Install the original Homematic CCU firmware inside a virtualized container (lxc) on Raspbian or Armbian.
 * [debmatic](https://github.com/alexreinert/debmatic) ⭐ 201 | 🐛 5 | 🌐 Shell | 📅 2025-12-08 - Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)
 * [docker-ccu](https://github.com/angelnu/docker-ccu) ⚠️ Archived - Homematic CCU firmware running as [Docker](https://www.docker.com) container on arm and (emulated) x86.
@@ -69,7 +69,7 @@
 
 ## CCU Addons
 
-* [RedMatic](https://github.com/rdmtc/RedMatic) ⭐ 532 | 🐛 178 | 🌐 HTML | 📅 2026-07-18 - [Node-RED](https://nodered.org/) als Addon für die Homematic CCU3 und RaspberryMatic. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.
+* [RedMatic](https://github.com/rdmtc/RedMatic) ⭐ 532 | 🐛 165 | 🌐 Shell | 📅 2026-09-02 - [Node-RED](https://nodered.org/) als Addon für die Homematic CCU3 und RaspberryMatic. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.
 * [HAP-HomeMatic](https://github.com/thkl/hap-homematic) ⚠️ Archived - RaspberryMatic / CCU3 addon to access your HomeMatic devices from HomeKit. Its much like <https://github.com/thkl/homebridge-homematic> ⚠️ Archived but without homebridge.
 * [XML-API](https://github.com/hobbyquaker/xml-api) ⭐ 128 | 🐛 16 | 🌐 Tcl | 📅 2024-03-14 - Vereinfachter CCU Zugriff via HTTP/XML.
 * [hm\_pdetect](https://github.com/jens-maus/hm_pdetect) ⭐ 73 | 🐛 49 | 🌐 Tcl | 📅 2023-07-13 - Anwesenheitserkennung über die FRITZ!-Box
@@ -89,10 +89,10 @@
 
 ## Interfacing Software
 
-* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,469 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-30 Plugin zur Einbindung von Homematic Geräten in HomeKit.
+* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,472 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-30 Plugin zur Einbindung von Homematic Geräten in HomeKit.
 * [CCU-Jack](https://github.com/mdzio/ccu-jack) ⭐ 146 | 🐛 33 | 🌐 Go | 📅 2026-08-30 - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
-* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 86 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-28 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,469 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-30 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
-* [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 69 | 🐛 62 | 🌐 JavaScript | 📅 2026-07-18 - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
+* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 86 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-28 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,472 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-30 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
+* [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 69 | 🐛 35 | 🌐 JavaScript | 📅 2026-09-02 - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 * [hvl - Homematic Virtual Interface](https://github.com/thkl/Homematic-Virtual-Interface) ⚠️ Archived - Bindet Fremdgeräte (z.B. Hue, Harmony, Netatmo, Sonos) über Plugins ein, auch als Addon verfügbar.
 
 ## Misc Software
@@ -110,7 +110,7 @@
 
 * [pyhomematic](https://github.com/danielperna84/pyhomematic) ⚠️ Archived - Python 3 Interface to interact with Homematic devices.
 * [pmatic](https://github.com/LarsMichelsen/pmatic) ⭐ 35 | 🐛 15 | 🌐 Python | 📅 2022-01-26 - Python API for Homematic. Easy to use.
-* [binrpc](https://github.com/hobbyquaker/binrpc) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2019-05-12 - Xmlrpc\_bin protocol client and server Node.js module.
+* [binrpc](https://github.com/hobbyquaker/binrpc) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Xmlrpc\_bin protocol client and server Node.js module.
 * [homematic-rega](https://github.com/hobbyquaker/homematic-rega) ⭐ 8 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-28 - Node.js Homematic CCU ReGaHSS Remote Script Interface.
 * [hm-discover](https://github.com/hobbyquaker/hm-discover) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2022-08-15 - Node.js module to discover Homematic CCUs and interfaces.
 * [homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - Xmlrpc client and server Node.js module.
@@ -146,4 +146,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
