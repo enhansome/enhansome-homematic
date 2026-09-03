@@ -15,8 +15,8 @@
             "id": 61721573,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T16:22:11Z",
-            "open_issues": 189,
+            "last_commit": "2026-09-03T06:40:09Z",
+            "open_issues": 191,
             "owner": "OpenCCU",
             "repo": "OpenCCU",
             "stars": 1826,
@@ -589,7 +589,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-02T10:29:19Z",
-            "open_issues": 35,
+            "open_issues": 34,
             "owner": "rdmtc",
             "repo": "node-red-contrib-ccu",
             "stars": 69,
@@ -1102,7 +1102,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:55:42.082Z",
+    "last_updated": "2026-09-03T17:53:30.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Homematic related links :sparkles:",
