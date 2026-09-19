@@ -35,7 +35,7 @@
 
 ## Documentation
 
-* [OpenCCU Wiki](https://github.com/OpenCCU/OpenCCU/wiki) ⭐ 1,831 | 🐛 189 | 🌐 JavaScript | 📅 2026-09-18 - Installation, Administration und Nutzung von OpenCCU.
+* [OpenCCU Wiki](https://github.com/OpenCCU/OpenCCU/wiki) ⭐ 1,832 | 🐛 189 | 🌐 JavaScript | 📅 2026-09-19 - Installation, Administration und Nutzung von OpenCCU.
 * [ccu-addon-howto](https://github.com/homematic-community/ccu-addon-howto) ⭐ 12 | 🐛 0 | 🌐 Shell | 📅 2026-09-05 - Howto für die Entwicklung von Addons für die Homematic CCU und OpenCCU.
 * [Direktverknüpfungen im Expertenmodus](https://www.youtube.com/watch?v=1B4iwtK1Rmo) - Vortrag von Frank Grass.
 * [Dissecting HomeMatic AES](https://git.zerfleddert.de/hmcfgusb/AES/) - BidCos Protocol AES Handshake description.
@@ -55,7 +55,7 @@
 
 ## CCU Alternatives
 
-* [OpenCCU](https://github.com/OpenCCU/OpenCCU) ⭐ 1,831 | 🐛 189 | 🌐 JavaScript | 📅 2026-09-18 - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi, x86/ARM or as virtual appliance (formerly known as RaspberryMatic).
+* [OpenCCU](https://github.com/OpenCCU/OpenCCU) ⭐ 1,832 | 🐛 189 | 🌐 JavaScript | 📅 2026-09-19 - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi, x86/ARM or as virtual appliance (formerly known as RaspberryMatic).
 * [piVCCU](https://github.com/alexreinert/piVCCU) ⭐ 315 | 🐛 10 | 🌐 C | 📅 2026-04-16 - Install the original Homematic CCU firmware inside a virtualized container (lxc) on Raspbian or Armbian.
 * [OCCU](https://github.com/eq-3/occu) ⭐ 213 | 🐛 65 | 🌐 Tcl | 📅 2026-09-16 - The HM-OCCU-SDK published by eQ-3, the base of debmatic, piVCCU and OpenCCU.
 * [debmatic](https://github.com/alexreinert/debmatic) ⭐ 201 | 🐛 6 | 🌐 Shell | 📅 2025-12-08 - Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)
@@ -103,23 +103,23 @@
 ## Interfacing Software
 
 * [homematicip\_local](https://github.com/SukramJ/homematicip_local) ⭐ 594 | 🐛 0 | 🌐 Python | 📅 2026-09-12 - [Home Assistant](https://www.home-assistant.io/) Custom Component zur lokalen Anbindung von CCU/OpenCCU (Homematic und Homematic IP), basiert auf aiohomematic.
-* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,495 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-30 Plugin zur Einbindung von Homematic Geräten in HomeKit.
-* [CCU-Jack](https://github.com/mdzio/ccu-jack) ⭐ 147 | 🐛 32 | 🌐 Go | 📅 2026-08-30 - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
-* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 85 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-14 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,495 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-30 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
-* [homematicip-hcu](https://github.com/Ediminator/homematicip-hcu) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2026-09-18 - [Home Assistant](https://www.home-assistant.io/) Integration zur lokalen Anbindung der Homematic IP Home Control Unit (HCU) ohne Cloud.
+* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) ⚠️ Archived - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,494 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-30 Plugin zur Einbindung von Homematic Geräten in HomeKit.
+* [CCU-Jack](https://github.com/mdzio/ccu-jack) ⭐ 148 | 🐛 32 | 🌐 Go | 📅 2026-08-30 - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
+* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) ⭐ 85 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-14 - [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,494 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-30 Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
+* [homematicip-hcu](https://github.com/Ediminator/homematicip-hcu) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2026-09-19 - [Home Assistant](https://www.home-assistant.io/) Integration zur lokalen Anbindung der Homematic IP Home Control Unit (HCU) ohne Cloud.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 69 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-17 - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 * [RedMatic-HomeKit](https://github.com/rdmtc/RedMatic-HomeKit) ⭐ 58 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-05 - HAP-Nodejs basierte Node-RED Nodes um (Homematic-)Geräte in HomeKit einzubinden.
 * [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-17 - Node.js based interface between Homematic and MQTT.
 * [ccu-mcp](https://github.com/claymore666/ccu-mcp) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-16 - MCP server enabling AI assistants to control Homematic devices via the CCU's JSON-RPC API, no addon required.
 * [OpenCCU-Loom](https://github.com/SukramJ/openccu-loom) ⭐ 5 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Standalone Go daemon bridging Homematic / Homematic IP CCUs to MQTT (with Home Assistant Discovery), REST + WebSocket, an MCP server and a native Matter bridge.
-* [matterbridge-homematic](https://github.com/hobbyquaker/matterbridge-homematic) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-16 - [Matterbridge](https://github.com/Luligu/matterbridge) ⭐ 973 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-18 Plugin to bridge a Homematic CCU's devices to the Matter ecosystem.
+* [matterbridge-homematic](https://github.com/hobbyquaker/matterbridge-homematic) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-16 - [Matterbridge](https://github.com/Luligu/matterbridge) ⭐ 974 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-19 Plugin to bridge a Homematic CCU's devices to the Matter ecosystem.
 * [CCU-AI-MCP](https://github.com/mdzio/ccu-ai-mcp) ⭐ 3 | 🐛 1 | 🌐 Go | 📅 2026-09-07 - MCP-Server für OpenCCU/CCU, gibt KI-Assistenten (LLMs) über konfigurierbare HM-Skripte Zugriff auf das Smart Home.
 * [RedMatic-Matter](https://github.com/rdmtc/RedMatic-Matter) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-04 - Matter.js basierte Node-RED Nodes, die Homematic-Geräte und beliebige Node-RED-Daten als Matter-Bridge bereitstellen.
 
 ## Misc Software
 
-* [homematic-manager](https://github.com/hobbyquaker/homematic-manager) ⭐ 196 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-18 - Manage homematic interface processes (rfd/hs485d/homegear).
-* [HMDeviceFirmware](https://github.com/OpenCCU/HMDeviceFirmware) ⭐ 34 | 🐛 0 | 🌐 Shell | 📅 2026-09-18 - Archive of current and past firmware update files for HomeMatic and Homematic IP devices.
+* [homematic-manager](https://github.com/hobbyquaker/homematic-manager) ⭐ 196 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-19 - Manage homematic interface processes (rfd/hs485d/homegear).
+* [HMDeviceFirmware](https://github.com/OpenCCU/HMDeviceFirmware) ⭐ 34 | 🐛 0 | 🌐 Shell | 📅 2026-09-19 - Archive of current and past firmware update files for HomeMatic and Homematic IP devices.
 * [HomeHub](https://github.com/homematic-community/homehub) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2026-09-07 - PHP/XML-API basiertes Webfrontend. [Forum](https://homematic-forum.de/forum/viewtopic.php?f=41\&t=50538)
 * [pydevccu](https://github.com/SukramJ/pydevccu) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-09-16 - Virtual HomeMatic CCU XML-RPC and JSON-RPC server with fake devices for development and testing.
 * [HM-Explorer](https://github.com/thkl/HM-Explorer) ⭐ 8 | 🐛 8 | 🌐 JavaScript | 📅 2023-10-05 - Electron based helper app for the Homematic CCU (macOS/Windows).
@@ -150,8 +150,8 @@
 
 ## Smart Home Software supporting Homematic
 
-* [Home Assistant](https://www.home-assistant.io/) - via [homematicip\_local](https://github.com/SukramJ/homematicip_local) ⭐ 594 | 🐛 0 | 🌐 Python | 📅 2026-09-12 (CCU/OpenCCU) oder [homematicip-hcu](https://github.com/Ediminator/homematicip-hcu) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2026-09-18 (HCU).
-* [ioBroker](https://www.iobroker.net/?lang=de) - via [hm-rpc](https://github.com/ioBroker/ioBroker.hm-rpc) ⭐ 62 | 🐛 90 | 🌐 HTML | 📅 2026-09-18 (Interface-Prozesse) und [hm-rega](https://github.com/ioBroker/ioBroker.hm-rega) ⭐ 43 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-18 (ReGaHSS) Adapter, [hmip](https://github.com/iobroker-community-adapters/ioBroker.hmip) ⭐ 31 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-11 für den Homematic IP Cloud Access Point.
+* [Home Assistant](https://www.home-assistant.io/) - via [homematicip\_local](https://github.com/SukramJ/homematicip_local) ⭐ 594 | 🐛 0 | 🌐 Python | 📅 2026-09-12 (CCU/OpenCCU) oder [homematicip-hcu](https://github.com/Ediminator/homematicip-hcu) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2026-09-19 (HCU).
+* [ioBroker](https://www.iobroker.net/?lang=de) - via [hm-rpc](https://github.com/ioBroker/ioBroker.hm-rpc) ⭐ 62 | 🐛 91 | 🌐 HTML | 📅 2026-09-19 (Interface-Prozesse) und [hm-rega](https://github.com/ioBroker/ioBroker.hm-rega) ⭐ 43 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-18 (ReGaHSS) Adapter, [hmip](https://github.com/iobroker-community-adapters/ioBroker.hmip) ⭐ 31 | 🐛 36 | 🌐 JavaScript | 📅 2026-09-19 für den Homematic IP Cloud Access Point.
 * [SmartHomeNG](https://www.smarthomeng.de/) - via [Plugins](https://github.com/smarthomeNG/plugins) ⭐ 44 | 🐛 8 | 🌐 Python | 📅 2026-09-18.
 * [FHEM](https://fhem.de/) - via [HMCCU](https://wiki.fhem.de/wiki/HMCCU) Modul.
 * [IP-Symcon](https://www.symcon.de/) - 💵
@@ -177,4 +177,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
