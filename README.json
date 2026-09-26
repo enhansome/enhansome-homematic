@@ -15,8 +15,8 @@
             "id": 61721573,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T16:24:22Z",
-            "open_issues": 191,
+            "last_commit": "2026-09-26T16:13:43Z",
+            "open_issues": 192,
             "owner": "OpenCCU",
             "repo": "OpenCCU",
             "stars": 1835,
@@ -57,7 +57,7 @@
             "id": 210193757,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-05T13:13:35Z",
+            "last_commit": "2026-09-26T16:21:42Z",
             "open_issues": 0,
             "owner": "homematic-community",
             "repo": "ccu-addon-howto",
@@ -90,8 +90,8 @@
             "id": 61721573,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T16:24:22Z",
-            "open_issues": 191,
+            "last_commit": "2026-09-26T16:13:43Z",
+            "open_issues": 192,
             "owner": "OpenCCU",
             "repo": "OpenCCU",
             "stars": 1835,
@@ -155,29 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "OCCU",
-          "description": "The HM-OCCU-SDK published by eQ-3, the base of debmatic, piVCCU and OpenCCU.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 33139360,
-            "language": "Tcl",
-            "license": null,
-            "last_commit": "2026-09-16T11:35:47Z",
-            "open_issues": 65,
-            "owner": "eq-3",
-            "repo": "occu",
-            "stars": 213,
-            "topics": []
-          },
-          "first_seen": "2026-09-05T16:51:17.319Z"
-        },
-        {
-          "node_type": "item",
           "title": "debmatic",
-          "description": "Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)",
+          "description": "Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian) software or your own scripts.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -202,6 +181,27 @@
             ]
           },
           "first_seen": "2026-08-28T23:34:13.474Z"
+        },
+        {
+          "node_type": "item",
+          "title": "openccu-lite",
+          "description": "Fork of OpenCCU: Homematic CCU firmware without ReGaHSS and with new web interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Homematic CCU firmware without ReGaHSS, built on OpenCCU (alpha)",
+            "homepage": null,
+            "id": 1389254468,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-26T17:10:12Z",
+            "open_issues": 0,
+            "owner": "hobbyquaker",
+            "repo": "openccu-lite",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-26T17:46:38.118Z"
         }
       ],
       "title": "CCU Alternatives"
@@ -337,7 +337,7 @@
             "id": 131438939,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T04:48:07Z",
+            "last_commit": "2026-09-26T16:21:35Z",
             "open_issues": 4,
             "owner": "rdmtc",
             "repo": "RedMatic",
@@ -353,34 +353,6 @@
               "node-red",
               "raspberrymatic",
               "smarthome"
-            ]
-          },
-          "first_seen": "2026-08-28T23:34:13.474Z"
-        },
-        {
-          "node_type": "item",
-          "title": "HAP-HomeMatic",
-          "description": "OpenCCU / CCU3 addon to access your HomeMatic devices from HomeKit. Its much like https://github.com/thkl/homebridge-homematic but without homebridge (archived).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "a AddOn for  HomeMatic CCU3 (Raspberrymatic) that will bring HomeKit to your CCU",
-            "homepage": null,
-            "id": 245855336,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-05-29T18:28:51Z",
-            "open_issues": 78,
-            "owner": "thkl",
-            "repo": "hap-homematic",
-            "stars": 219,
-            "topics": [
-              "ccu",
-              "ccu3",
-              "ccu3-addon",
-              "homekit",
-              "homematic",
-              "raspberrymatic"
             ]
           },
           "first_seen": "2026-08-28T23:34:13.474Z"
@@ -577,7 +549,7 @@
             "id": 137383187,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T04:46:39Z",
+            "last_commit": "2026-09-26T17:25:50Z",
             "open_issues": 0,
             "owner": "homematic-community",
             "repo": "ccu-addon-mosquitto",
@@ -639,6 +611,33 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:34:13.474Z"
+        },
+        {
+          "node_type": "item",
+          "title": "hm2mqtt.js",
+          "description": "Connect CCU to MQTT, Home Assistant auto discovery, follows mqtt-smarthome convention",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Node.js based Interface between Homematic and MQTT",
+            "homepage": null,
+            "id": 88088758,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-26T16:21:37Z",
+            "open_issues": 0,
+            "owner": "hobbyquaker",
+            "repo": "hm2mqtt.js",
+            "stars": 22,
+            "topics": [
+              "home-automation",
+              "homematic",
+              "homematicip",
+              "mqtt",
+              "smarthome"
+            ]
+          },
+          "first_seen": "2026-09-05T16:51:17.319Z"
         },
         {
           "node_type": "item",
@@ -1059,8 +1058,8 @@
             "id": 1058375151,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T06:58:38Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-26T06:57:14Z",
+            "open_issues": 2,
             "owner": "Ediminator",
             "repo": "homematicip-hcu",
             "stars": 72,
@@ -1086,7 +1085,7 @@
             "id": 131439304,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T17:19:10Z",
+            "last_commit": "2026-09-26T16:21:40Z",
             "open_issues": 18,
             "owner": "rdmtc",
             "repo": "node-red-contrib-ccu",
@@ -1125,33 +1124,6 @@
               "homematic",
               "raspberrymatic",
               "redmatic",
-              "smarthome"
-            ]
-          },
-          "first_seen": "2026-09-05T16:51:17.319Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hm2mqtt.js",
-          "description": "Node.js based interface between Homematic and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Node.js based Interface between Homematic and MQTT",
-            "homepage": null,
-            "id": 88088758,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-09-24T04:46:42Z",
-            "open_issues": 0,
-            "owner": "hobbyquaker",
-            "repo": "hm2mqtt.js",
-            "stars": 22,
-            "topics": [
-              "home-automation",
-              "homematic",
-              "homematicip",
-              "mqtt",
               "smarthome"
             ]
           },
@@ -1330,7 +1302,7 @@
             "id": 19676654,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T13:12:13Z",
+            "last_commit": "2026-09-26T17:45:09Z",
             "open_issues": 6,
             "owner": "hobbyquaker",
             "repo": "homematic-manager",
@@ -1362,7 +1334,7 @@
             "id": 564864325,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T15:28:32Z",
+            "last_commit": "2026-09-26T14:42:26Z",
             "open_issues": 0,
             "owner": "OpenCCU",
             "repo": "HMDeviceFirmware",
@@ -1911,6 +1883,33 @@
         },
         {
           "node_type": "item",
+          "title": "occulite-client",
+          "description": "Typescript client for openccu-lite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "One client for openccu-lites APIs: lite-rpc requests and events, the state store, the metadata, pairing",
+            "homepage": null,
+            "id": 1387921941,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-25T18:59:01Z",
+            "open_issues": 0,
+            "owner": "hobbyquaker",
+            "repo": "occulite-client",
+            "stars": 0,
+            "topics": [
+              "ccu",
+              "hmip",
+              "homematic",
+              "openccu-lite",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-26T17:46:38.118Z"
+        },
+        {
+          "node_type": "item",
           "title": "openccu-loom-client",
           "description": "Async Python REST + WebSocket client for the OpenCCU-Loom daemon.",
           "children": [],
@@ -2010,8 +2009,8 @@
             "id": 76129595,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-25T17:13:18Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-26T13:31:18Z",
+            "open_issues": 8,
             "owner": "smarthomeNG",
             "repo": "plugins",
             "stars": 44,
@@ -2038,6 +2037,43 @@
             ]
           },
           "first_seen": "2026-09-05T16:51:17.319Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Home Engine (\"she\")",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "she - scriptable smart home automation engine with AI assistance",
+            "homepage": null,
+            "id": 1253740602,
+            "language": "Svelte",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-01T16:32:27Z",
+            "open_issues": 1,
+            "owner": "hobbyquaker",
+            "repo": "she",
+            "stars": 12,
+            "topics": [
+              "ai-agents",
+              "ai-assistant",
+              "esphome",
+              "home-automation",
+              "iot",
+              "javascript",
+              "matter",
+              "mqtt",
+              "mqtt-smarthome",
+              "script-engine",
+              "scripting",
+              "smart-home",
+              "tasmota",
+              "vibe-coded",
+              "zigbee2mqtt"
+            ]
+          },
+          "first_seen": "2026-09-26T17:46:38.118Z"
         }
       ],
       "title": "Smart Home Software supporting Homematic"
@@ -2126,7 +2162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:41:13.831Z",
+    "last_updated": "2026-09-26T17:46:38.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Homematic related links :sparkles:",
@@ -2134,7 +2170,7 @@
       "id": 89015898,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-05T09:25:03Z",
+      "last_commit": "2026-09-26T17:18:39Z",
       "open_issues": 0,
       "owner": "homematic-community",
       "repo": "awesome-homematic",
@@ -2147,7 +2183,7 @@
         "smarthome"
       ]
     },
-    "original_repository_sha": "a1d597403286ea5ce49ca05ec2b73767a535fd00",
+    "original_repository_sha": "3c4ab75bad66fb788bee48d1025c6cdace8f5f66",
     "enhanced_repository": "enhansome/enhansome-homematic",
     "enhanced_repository_description": null,
     "title": "Awesome Homematic with stars"
